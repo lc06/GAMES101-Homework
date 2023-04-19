@@ -11,7 +11,7 @@ Lecture link: [GAMES101-现代计算机图形学入门-闫令琪](https://www.bi
 
 | phong | texture | normal | bump | displacement |
 | :--: | :--: | :--: | :--: | :--: |
-| ![phong](Homework3/Assignment3/build/phong.png)             |   ![phong](Homework3/Assignment3/build/phong.png) | ![normal](Homework3/Assignment3/build/normal.png) | ![bump](Homework3/Assignment3/build/bump.png) |  ![displacement](Homework3/Assignment3/build/displacement.png) |
+| ![phong](Homework3/Assignment3/build/phong.png)             |   ![texture](Homework3/Assignment3/build/texture.png) | ![normal](Homework3/Assignment3/build/normal.png) | ![bump](Homework3/Assignment3/build/bump.png) |  ![displacement](Homework3/Assignment3/build/displacement.png) |
 
 | Assignment4 | Assignment5 |
 | :--: | :--: |
